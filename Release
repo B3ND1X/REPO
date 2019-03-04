@@ -1,8 +1,8 @@
-Origin: Liam 
-Label: L3L0
+Origin: B3ND1X
+Label: B3ND1X
 Suite: stable
-Version: 1
-Codename: l3l0
+Version: 1.0
+Codename: B3ND1X
 Architectures: iphoneos-arm
 Components: main
-Description: 
+Description: Repo made by Liam Bendix
