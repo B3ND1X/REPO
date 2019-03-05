@@ -4,7 +4,6 @@ Name: tweakCompatible
 Filename: ./debs/bz.jed.tweakcompatible.deb
 Package: bz.jed.tweakcompatible
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Section: Tweaks
 Size: 259
 Version: 0.1.2
 Architecture: iphoneos-arm
