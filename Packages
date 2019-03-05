@@ -1,8 +1,8 @@
 Author: Reed Weichler <rweichler+cydia@gmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Name: Cylinder
+File: Cylinder
 Package: com.r333d.cylinder
-Section: Tweaks
+Section: All Packages
 Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Version: 1.0.6
 Architecture: iphoneos-arm
