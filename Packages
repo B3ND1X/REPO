@@ -13,3 +13,17 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Size: 899
 Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
 MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
+
+Package: com.hackyouriphone.appcake6
+Name: AppCake
+Version: 6.0.8
+Depends: appsync
+Pre-Depends: firmware (>= 10.0)
+Architecture: iphoneos-arm
+Author: hotsjf <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=appcake6
+Section: HYI - Applications
+Description: The new AppCake 6! For iOS 11 & 12 Jailbreak.
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=appcake6
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+MD5sum: 86e9604281dd8b8df31c1bed6bfada622
