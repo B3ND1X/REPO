@@ -12,5 +12,6 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 dev: rweichler
-Installed-Size: 899
+Size: 899
 Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
